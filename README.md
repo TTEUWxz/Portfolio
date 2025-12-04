@@ -14,3 +14,5 @@ Site de portfólio pessoal construído com **HTML, CSS e JavaScript**, com o obj
 - CSS3 (Flexbox / Grid / Responsividade)  
 - JavaScript (ES6+)  
 - Organização de arquivos com pastas separadas (CSS, JS, imagens)
+![Preview do Portfolio](<img width="1907" height="1029" alt="Captura de tela 2025-12-04 202805" src="https://github.com/user-attachments/assets/dd5acb1e-39c9-48f9-84eb-32302d6bad33" />
+)
